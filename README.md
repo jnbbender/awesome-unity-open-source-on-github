@@ -384,6 +384,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [WavTexture](https://github.com/keijiro/WavTexture) - A Unity example showing how to bake a waveform of an audio clip into a texture and use it in a shader
 - [Smooth radial gradient shader](https://github.com/Nrjwolf/unity-shader-smooth-radial-gradient) - Helps to create radial gradient without banding by using noise
 - [Radial fill shader](https://github.com/Nrjwolf/unity-shader-sprite-radial-fill) - Helps to create radial fill with sprite
+- [Invisibility Cloak shader](https://github.com/jnbbender/Unity3D-Stuff/tree/main/Invisibility%20Cloak) - Cysis style Invisibility Cloak.
 
 # Editor Extensions
 
